@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="dayblue">#94e9fe</color>
+    <color name="night2blue">#001f31</color>
+    <color name="yellow">#FFC300</color>
+    <color name="blue">#5dade2</color>
+    <color name="nightblue">#154360</color>
+    <color name="orange">#ff5733</color>
+    <color name="Clouds"> #ebf5fb</color>
+    <color name="gray">#404040</color>
+</resources>
